@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 This project was developed using Google Colab, a cloud-based platform that allows easy coding, sharing, and access to free GPUs for faster computations.
 
 # Project Demo: 
-1. Video Tutorial: [Credit Card Fraud Detection]()
+1. Video Tutorial: [Credit Card Fraud Detection](https://youtu.be/O-9VPvCNlWY)
 
 # Check out My Projects & Resume
 1. Personal Website: [https://nishchal-kansara.web.app/](https://nishchal-kansara.web.app/)
